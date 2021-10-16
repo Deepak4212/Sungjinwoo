@@ -1,13 +1,13 @@
 __help__ = """
 
-*EZTee*
+*Sung Jin Woo*
 ★A Group management Bot★
 
 • Song Downloader 🎶
 • Youtube Downloader 💯
 • URL Uploader 📥
 
-Owner @Tikka_bro 🇱🇰
-Our Channel @ez_tee_youtube """
+Owner @Sungjinwooarc 
+Our Channel @Sungjinwoo """
 
-__mod_name__ = "🧡EzTee"
+__mod_name__ = "Sung jin woo"
