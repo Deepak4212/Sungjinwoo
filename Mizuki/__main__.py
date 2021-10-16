@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-PM_START_TEXT = "*Hey {},*\n*I am {} 😌,*\n\n*• I'm a powerful group manager bot.👻*\n*• My Owner is* [SUPUN 🇱🇰](t.me/Tikka_bro) 😌❤❤\n*• Send /help available commands🛠*"
+PM_START_TEXT = "*Hey {},*\n*I am {} 😌,*\n\n*• I'm a powerful group manager bot.👻*\n*• My Owner is* [Sungjinwooarc](t.me/Sungjinwooarc) 😌❤❤\n*• Send /help available commands🛠*"
 
 HELP_STRINGS = """
 Hey 👻! My name is *{}*.
@@ -95,7 +95,7 @@ I'm a group management bot, here to help you get around and keep the order in yo
 
 SAITAMA_IMG = "https://telegra.ph/file/af86973849bc43cc8e3ce.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@ImJanindu](t.me/imjanindu)"""
+DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@Sunfjinwooarc](t.me/Sungjinwooarc)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -221,16 +221,16 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Support Group🧡",
-                                url=f"https://t.me/eztee_chat",
+                                url=f"https://t.me/ifoejeje",
                             ),
                             InlineKeyboardButton(
                                 text="📌 Updates Channel",
-                                url="https://t.me/ez_tee_youtube",
+                                url="https://t.me/ifoejeje",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
-                                text="🇱🇰 Developer", url="https://github.com/Ez-tee"
+                                text="Developer", url="https://github.com/titu3e"
                             ),
                         ],
                     ]
