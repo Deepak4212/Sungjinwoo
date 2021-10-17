@@ -230,7 +230,7 @@ def start(update: Update, context: CallbackContext):
                         ],
                         [
                             InlineKeyboardButton(
-                                text="Developer", url="https://github.com/titu3e"
+                                text="Developer", url="https://github.com/Deepak4212/Sungjinwoo"
                             ),
                         ],
                     ]
