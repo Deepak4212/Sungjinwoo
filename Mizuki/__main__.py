@@ -75,7 +75,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-PM_START_TEXT = "*Hey {},*\n*I am {} 😌,*\n\n*• I'm a powerful group manager bot.👻*\n*• My Owner is* [Sungjinwooarc](t.me/Sungjinwooarc) 😌❤❤\n*• Send /help available commands🛠*"
+PM_START_TEXT = "*Hey {},*\n*I am {} 😌,*\n\n*• I'm a powerful group manager bot.👻*\n*• My Owner is* DeMOnLoRDHeLL ](t.me/DeMOnLoRDHeLL c) 😌❤❤\n*• Send /help available commands🛠*"
 
 HELP_STRINGS = """
 Hey 👻! My name is *{}*.
@@ -93,7 +93,7 @@ I'm a group management bot, here to help you get around and keep the order in yo
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/13c6d6c9b778de7cf33e4.jpg"
+SAITAMA_IMG = "https://te.legra.ph/file/3677111d1c4e00398c8f8.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate for developer. This bot runs on heroku so bot slow down some times and developer cannot add more modules due to heroku can't run them.\n\nBetter if my developer recieved a VPS to run the bot. Contact him and help him to continue this.\n\nDeveloper: [@Sunfjinwooarc](t.me/Sungjinwooarc)"""
 
@@ -221,11 +221,11 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="Support Group🧡",
-                                url=f"https://t.me/ifoejeje",
+                                url=f"https://t.me/Rimuru_Support",
                             ),
                             InlineKeyboardButton(
                                 text="📌 Updates Channel",
-                                url="https://t.me/ifoejeje",
+                                url="https://t.me/Rimuru_Updates",
                             ),
                         ],
                         [
