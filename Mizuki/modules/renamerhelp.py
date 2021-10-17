@@ -8,4 +8,4 @@ Just reply to file with below commands*
 
 © @TheMizukiBot 👸"""
 
-__mod_name__ = "File Renamer ✏"
+__mod_name__ = "File Renamer"
