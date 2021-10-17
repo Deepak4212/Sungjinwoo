@@ -213,7 +213,7 @@ __help__ = f"""
 Reports bugs at @InfinityJE
 """
 
-__mod_name__ = "Search 🔍"
+__mod_name__ = "Search"
 
 REVERSE_HANDLER = DisableAbleCommandHandler(
     "reverse", reverse, pass_args=True, admin_ok=True
