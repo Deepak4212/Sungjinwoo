@@ -3,4 +3,4 @@ __help__ = """
 
 © @TheMizukiBot 👸"""
 
-__mod_name__ = "URL Upload 📤"
+__mod_name__ = "URL Upload"
